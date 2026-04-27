@@ -1,0 +1,11 @@
+{
+  "name": "KisanSetu",
+  "description": "AI-powered Farmer Assistant for crop disease detection, market price intelligence, and health risk scoring.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "AI Vision",
+    "Data Intelligence"
+  ]
+}
